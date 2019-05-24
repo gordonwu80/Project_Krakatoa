@@ -1,4 +1,4 @@
-# Project Kraktoa 
+# Project Krakatoa 
 
 Members: </br>
 Mordecai Ebhohon</br>
